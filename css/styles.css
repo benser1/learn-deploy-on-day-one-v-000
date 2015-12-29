@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#adam-fraser-card {
+  background-image: url("../assets/img/adam-fraser.jpg");
+}
+
+#adam-fraser-cover {
+  background-image: url("../assets/img/adam-fraser-cover.jpg");
+}
 
 .view-profile-div {
   position: absolute;
