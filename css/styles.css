@@ -295,11 +295,11 @@ a:visited {
 }
 
 #bryony-delahoussaye-cover {
-  background-image: url(../assets/img/bryony-delahoussaye-cover.jpg);
+  background-image: url("../assets/img/bryony-delahoussaye-cover.jpg");
 }
 
 #bryony-delahoussaye-card {
-  background-image: url(../assets/img/bryony-delahoussaye.jpg);
+  background-image: url("../assets/img/bryony-delahoussaye.jpg");
 }
 
 #frank-nowinski-card {
@@ -511,11 +511,11 @@ a:visited {
 }
 
 #kyle-gray-card {
-    background-image: url(../assets/img/kyle-gray-2.jpeg)
+    background-image: url("../assets/img/kyle-gray-2.jpeg")
 }
 
 #kyle-gray-cover {
-    background-image: url(../assets/img/kyle-background.jpg)
+    background-image: url("../assets/img/kyle-background.jpg")
 }
 
 #pj-wickwire-card {
@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#douglas-lawrence-cover {
+  background-image: url("../assets/img/douglas-lawrence-cover.jpg");
+}
+
+#douglas-lawrence-card {
+  background-image: url("../assets/img/douglas-lawrence.jpg");
+}
 
 .view-profile-div {
   position: absolute;
