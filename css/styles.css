@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#ross-cover {
+  background-image: url("../assets/img/ross-cover.jpg");
+}
+
+#ross-card {
+  background-image: url("../assets/img/ross-profile.png");
+
 
 .view-profile-div {
   position: absolute;
