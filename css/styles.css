@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#colton-staab-cover {
+  background-image: url("../assets/img/colton-staab-cover.jpg");
+}
+
+#colton-staab-card {
+  background-image: url("../assets/img/colton-staab.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
