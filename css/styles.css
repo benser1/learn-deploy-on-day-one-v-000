@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#edward-an-cover {
+  background-image: url("../assets/img/edward-an-cover.jpg");
+}
+ 
+#edward-an-card {
+  background-image: url("../assets/img/edward-an.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
