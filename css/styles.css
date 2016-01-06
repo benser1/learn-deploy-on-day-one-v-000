@@ -133,7 +133,6 @@ a:visited {
   height: 400px;
 }
 
-<<<<<<< HEAD
 #kyle-greene-card {
   background-image: url("../assets/img/kyle-greene.jpg");
 }
@@ -581,6 +580,14 @@ a:visited {
 
 #dan-osment-card {
   background-image: url("../assets/img/dan-osment.jpg");
+}
+
+#jenny-yamada-card {
+  background-image: url("../assets/img/jenny-yamada.jpg");
+}
+
+#jenny-yamada-cover {
+  background-image: url("../assets/img/jenny-yamada-cover.jpg");
 }
 
 
