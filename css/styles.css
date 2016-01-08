@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#julie-heyd-cover {
+  background-image: url("../assets/img/julie-heyd-cover.jpg");
+}
+
+#julie-heyd-card {
+  background-image: url("../assets/img/julie-heyd.jpg");
+}
 
 .view-profile-div {
   position: absolute;
