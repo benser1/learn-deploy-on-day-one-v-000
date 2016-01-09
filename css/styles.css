@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#tony-st-nikolas-cover {
+  background-image: url("../assets/img/tony-st-nikolas-cover.jpg");
+}
+
+#tony-st-nikolas-card {
+  background-image: url("../assets/img/tony-st-nikolas.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
