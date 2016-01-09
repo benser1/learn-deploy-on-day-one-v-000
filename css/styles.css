@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#minh-nguyen-cover {
+  background-image: url("../assets/img/minh-nguyen-cover.jpg");
+}
+
+#minh-nguyen-card {
+  background-image: url("../assets/img/minh-nguyen.jpg");
+}
 
 .view-profile-div {
   position: absolute;
