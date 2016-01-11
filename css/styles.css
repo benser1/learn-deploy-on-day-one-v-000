@@ -710,6 +710,14 @@ a:visited {
   background-image: url("../assets/img/douglas-lawrence.jpg");
 }
 
+#ross-cover {
+  background-image: url("../assets/img/ross-cover.jpg");
+}
+
+#ross-card {
+  background-image: url("../assets/img/ross-profile.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
