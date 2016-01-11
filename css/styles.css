@@ -758,6 +758,14 @@ a:visited {
   background-image: url("../assets/img/michael-simon.jpg");
 }
 
+#tra-to-card {
+  background-image: url("../assets/img/tra-to.png");
+}
+
+#tra-to-cover {
+  background-image: url("../assets/img/tra-to-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
