@@ -734,6 +734,14 @@ a:visited {
   background-image: url("../assets/img/colton-staab.jpg");
 }
 
+#chen-yang-cover {
+  background-image: url("../assets/img/chen-yang-cover.jpeg");
+}
+
+#chen-yang-card {
+  background-image: url("../assets/img/chen-yang.png");
+}
+
 
 .view-profile-div {
   position: absolute;
