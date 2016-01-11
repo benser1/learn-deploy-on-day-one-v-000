@@ -766,13 +766,16 @@ a:visited {
   background-image: url("../assets/img/tra-to-cover.jpg");
 }
 
-
 #kris-henderson-cover {
   background-image: url("../assets/img/kris-henderson-cover.jpg");
 }
 
 #kris-henderson-card {
   background-image: url("../assets/img/kris-henderson.jpg");
+}
+
+#james-ku-card {
+  background-image: url("../assets/img/james-ku-cover.jpg");
 }
 
 
