@@ -678,6 +678,14 @@ a:visited {
   background-image: url("../assets/img/corey-morris.jpg");
 }
 
+#elias-kirsch-card {
+  background-image: url("../assets/img/elias-kirsch.jpg");
+}
+
+#elias-kirsch-cover {
+  background-image: url("../assets/img/elias-kirsch-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
