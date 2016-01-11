@@ -840,6 +840,14 @@ a:visited {
   background-image: url("../assets/img/kristian-kanya.jpg");
 }
 
+#james-gorman-cover {
+  background-image: url("../assets/img/james-gorman-cover.jpg");
+}
+
+#james-gorman-card {
+  background-image: url("../assets/img/james-gorman.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
