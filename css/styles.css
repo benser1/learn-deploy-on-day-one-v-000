@@ -750,6 +750,14 @@ a:visited {
   background-image: url("../assets/img/eric-baker.jpg");
 }
 
+#michael-simon-cover {
+  background-image: url("../assets/img/michael-simon-cover.jpg");
+}
+
+#michael-simon-card {
+  background-image: url("../assets/img/michael-simon.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
