@@ -718,6 +718,15 @@ a:visited {
   background-image: url("../assets/img/ross-profile.png");
 }
 
+#ziv-cover {
+  background-image: url("../assets/img/ziv-cover.jpg");
+}
+
+#ziv_profile {
+  background-image: url("../assets/img/ziv_profile.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
