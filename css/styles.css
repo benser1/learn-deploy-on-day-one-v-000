@@ -628,7 +628,6 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
-<<<<<<< HEAD
 #joe-lachance-cover {
   background-image: url("../assets/img/joe-lachance-cover.jpg");
 }
@@ -807,6 +806,14 @@ a:visited {
 
 #jenny-yamada-cover {
   background-image: url("../assets/img/jenny-yamada-cover.jpg");
+}
+
+#angel-olea-cover {
+  background-image: url("../assets/img/angel-olea-cover.jpg");
+}
+
+#angel-olea {
+  background-image: url("../assets/img/angel-olea.jpg");
 }
 
 .view-profile-div {
