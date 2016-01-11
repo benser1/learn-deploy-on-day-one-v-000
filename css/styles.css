@@ -742,6 +742,13 @@ a:visited {
   background-image: url("../assets/img/chen-yang.png");
 }
 
+#eric-baker-cover {
+  background-image: url("../assets/img/eric-baker-cover.jpg");
+}
+
+#eric-baker-card {
+  background-image: url("../assets/img/eric-baker.jpg");
+}
 
 .view-profile-div {
   position: absolute;
