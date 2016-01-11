@@ -864,6 +864,13 @@ a:visited {
   background-image: url("../assets/img/tony-st-nikolas.jpg");
 }
 
+#john-depippo-cover {
+  background-image: url("../assets/img/john-depippo-cover.jpg");
+}
+
+#john-depippo-card {
+  background-image: url("../assets/img/john-depippo.jpg");
+}
 
 .view-profile-div {
   position: absolute;
