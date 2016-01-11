@@ -872,6 +872,14 @@ a:visited {
   background-image: url("../assets/img/john-depippo.jpg");
 }
 
+#lindsey-wells-card {
+  background-image: url("../assets/img/lindsey-wells.png");
+}
+
+#lindsey-wells-cover {
+  background-image: url("../assets/img/lindsey-wells-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
