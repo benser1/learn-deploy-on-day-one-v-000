@@ -832,6 +832,14 @@ a:visited {
   background-image: url("../assets/img/puna-earl.jpg");
 }
 
+#kristian-kanya-cover {
+  background-image: url("../assets/img/kristian-kanya-cover.jpg");
+}
+
+#kristian-kanya-card {
+  background-image: url("../assets/img/kristian-kanya.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
