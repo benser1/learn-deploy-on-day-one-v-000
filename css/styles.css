@@ -256,6 +256,14 @@ a:visited {
   background-image: url("../assets/img/Jelson-Rodriguez.jpg");
 }
 
+#duc-pham-card {
+  background-image: url("../assets/img/duc-pham.jpg");
+}
+
+#duc-pham-cover {
+  background-image: url("../assets/img/duc-pham-cover.jpg");
+}
+
 #james-novak-cover {
   background-image: url("../assets/img/james-novak-cover.jpg");
 }
