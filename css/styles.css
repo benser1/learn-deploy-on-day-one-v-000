@@ -896,6 +896,14 @@ a:visited {
   background-image: url("../assets/img/minh-nguyen.jpg");
 }
 
+#brigan-enser-card {
+  background-image: url("../assets/img/brigan-enser-card.jpg");
+}
+
+#brigan-enser-cover {
+  background-image: url("../assets/img/brigan-enser.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
